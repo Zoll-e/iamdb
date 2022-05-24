@@ -11,7 +11,7 @@
 > This project was made specifically for ApexLab as the test part of their selection proccess.
 > In a few words this application is using GraphQL to reach out to a TMDB sandbox to retrieve and display data from it.
 
-> This was really exciting and challenging for me. I have learnt a lot about new technologies (typescript,cypress,MUI,NGINX) and deepened my knowledges about the ones that I already knew.
+> This was really exciting and challenging for me. I have learnt a lot about new technologies (typescript,cypress,MUI,NGINX) and deepened my knowledge about the ones that I already knew.
 
 &nbsp;
 
@@ -42,12 +42,12 @@
 
 > cd /iamdb
 
-#### Running in docker container:
+#### Run in docker container:
 
 > docker-compose up -d
 
 #### OR
 
-#### Run it in developent mode:
+#### Run in developent mode:
 
 > npm install && npm start
