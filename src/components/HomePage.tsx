@@ -52,7 +52,7 @@ const HomePage = () => {
 
   //Change the background if there`s no results
   const background =
-    resultsState.search == ""
+    resultsState.search === ""
       ? Background
       : resultsState.results < 1 && NoResult;
 
