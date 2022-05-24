@@ -1,0 +1,16 @@
+version: "3.7"
+
+services:
+  client:
+    build:
+      context: ./
+      dockerfile: Dockerfile.prod
+    image: react
+    stdin_open: true # docker run -i
+    container_name: IAMDB
+    volumes:
+      - ./:/usr/src/app
+      - /usr/src/app/node_modules    
+
+    ports:
+      - "80:80"
