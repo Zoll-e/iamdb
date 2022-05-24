@@ -1,6 +1,6 @@
 # <img src="./public/favicon.ico" alt="drawing" height="28"/> **IAMDB** <img src="./public/favicon.ico" alt="drawing" height="28"/>
 
-> This project can be found up and running [here.](https://iamdb.herokuapp.com/)
+> This project can be found up and running [here.](https://iamdebe.herokuapp.com/)
 
 ## **Overview of the project**
 
