@@ -29,6 +29,7 @@ const HomePage = () => {
     const value = (e.target as HTMLInputElement).value;
     if (e.key === "Enter" && value !== "") {
       getResults(value);
+      setSwitcher(false);
     }
   };
 
