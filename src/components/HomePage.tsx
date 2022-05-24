@@ -64,6 +64,7 @@ const HomePage = () => {
         minHeight: "100vh",
         backgroundPositionY: "5rem",
         backgroundSize: "contain",
+        backgroundPosition:"center center",
         backgroundAttachment: "fixed",
       }}
     >
