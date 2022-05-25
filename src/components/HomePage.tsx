@@ -63,10 +63,8 @@ const HomePage = () => {
         margin: "auto",
         backgroundRepeat: "no-repeat",
         minHeight: "100vh",
-        backgroundPositionY: "5rem",
         backgroundSize: "contain",
         backgroundPosition:"center center",
-        backgroundAttachment: "fixed",
       }}
     >
       <Navbar />
