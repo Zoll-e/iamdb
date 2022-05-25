@@ -4,7 +4,7 @@ services:
   client:
     build:
       context: ./
-      dockerfile: Dockerfile.prod
+      dockerfile: Dockerfile.yaml
     image: iamdb
     stdin_open: true # docker run -i
     container_name: IAMDB
