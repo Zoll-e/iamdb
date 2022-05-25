@@ -5,7 +5,7 @@ services:
     build:
       context: ./
       dockerfile: Dockerfile.prod
-    image: react
+    image: iamdb
     stdin_open: true # docker run -i
     container_name: IAMDB
     volumes:
