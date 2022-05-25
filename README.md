@@ -1,4 +1,4 @@
-# <img src="./public/favicon.ico" alt="drawing" height="28"/> **IAMDB** <img src="./public/favicon.ico" alt="drawing" height="28"/>
+# <img src="./public/favicon.ico" alt="drawing" height="28"/> **I AM DB** <img src="./public/favicon.ico" alt="drawing" height="28"/>
 
 > This project can be found up and running [here.](https://iamdebe.herokuapp.com/)
 
