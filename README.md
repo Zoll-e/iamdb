@@ -38,7 +38,7 @@
 
 > git clone https://github.com/Zoll-e/iamdb
 
-#### Open the projects folder:
+#### Open the project's folder:
 
 > cd /iamdb
 
